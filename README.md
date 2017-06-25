@@ -1,5 +1,7 @@
 # Machine Learning ND
 
+This repository contains source code and projects for the Udacity [Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
+
 ## Projects
 ### P0: Titanic Survival Exploration
 
